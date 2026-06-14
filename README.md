@@ -1,4 +1,4 @@
-# ⚙️ Systems & Automation
+# ⚙️ Sistemas y Automatización
 
 Repositorio dedicado a herramientas, scripts y automatizaciones relacionadas con la administración de sistemas y la gestión de infraestructuras.
 
