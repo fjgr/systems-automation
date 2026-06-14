@@ -40,8 +40,3 @@ Herramientas desarrolladas para facilitar la gestión diaria de sistemas.
 
 Crear y documentar soluciones que permitan administrar sistemas de forma más eficiente, automatizada y mantenible.
 
----
-
-### 🔬 FJGR Labs
-
-*Systems • Automation • Linux • Infrastructure*
